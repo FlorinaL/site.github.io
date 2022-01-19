@@ -1,0 +1,65 @@
+body {
+	width:960px;
+	margin: 10px auto;
+	background-color: #dee3e2;
+	
+}
+
+header {
+	border-bottom: 1px solid gray;
+	padding: 4px 0 4px 0;
+
+
+}
+
+nav{
+	padding: 0 8px 0 0;
+	border-bottom: 1px solid gray;
+	position: absolute;
+	left: 200px;
+	
+
+}
+footer{
+	padding: 16px 0 16px 0;
+	border-top: 1px solid gray;
+}
+a{
+	margin-right: 6px;
+	text-decoration: none;
+	font-family: Georgia,sans-serif;
+}
+section{
+	
+	width: 700px;
+    padding: 0 8px 0 0;
+	border-right: 1px solid gray;
+	margin-bottom: 8px;
+	position: absolute;
+	right: 200px;
+	background-image: url("imagini/gray.jpg");
+	background-repeat: no-repeat; 
+	background-size: 100%;
+
+}
+h1{
+font-style: italic;
+font-weight: bold;
+}
+
+ul{
+	list-style-type: square;
+}
+
+table{
+	display: table;
+	font-family: arial,sans-serif;
+	border-collapse: collapse;
+	width: 90%;
+	margin: 0 auto;
+}
+
+p{
+	font-family: arial, sans-serif; 
+	font-size: 18px;
+}
